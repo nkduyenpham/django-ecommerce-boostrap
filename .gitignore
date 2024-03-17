@@ -1,0 +1,20 @@
+# Common ignore patterns
+*.pyc  # Python bytecode files
+__pycache__/  # Folder created by Python caches
+*.env  # Environment variable files
+.idea/  # IntelliJ IDEA IDE configuration
+.vscode/  # Visual Studio Code IDE configuration
+
+# Temporary or build files
+*.log  # Log files
+*.tmp  # Temporary files
+build/  # Build artifacts
+dist/  # Distribution files
+
+# Version control system files
+.git/  # Git repository files
+.gitignore  # This file
+
+# IDE specific files
+# (adjust based on your IDE)
+*.suo  # Visual Studio solution files
