@@ -30,7 +30,7 @@ This project is a full-stack e-commerce website built with Django for the backen
 
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/nkduyenpham/django-ecommerce-boostrap.git
+    git clone [https://github.com/nkduyenpham/django-ecommerce-boostrap.git]
 )
     cd your-repo-name
     ```
