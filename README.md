@@ -31,7 +31,6 @@ This project is a full-stack e-commerce website built with Django for the backen
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/nkduyenpham/django-ecommerce-boostrap.git
-)
 
 2. **Create a virtual environment and activate it:**
     ```bash
